@@ -1,0 +1,91 @@
+Time: 10
+Time: 110
+Time: 210
+Time: 310
+Time: 410
+Time: 510
+Time: 610
+Time: 710
+Time: 810
+Time: 910
+Time: 1010
+Time: 1110
+Time: 1210
+Time: 1310
+Time: 1410
+Average Level Differential: 2
+Average Latency Time: 49
+Time: 1510
+Average Level Differential: 2
+Average Latency Time: 49
+Time: 1610
+Average Level Differential: 2
+Average Latency Time: 49
+Time: 1710
+Average Wait Time: 17.43114
+Average Level Differential: 2
+Average Latency Time: 49
+Time: 1810
+Average Wait Time: 17.43114
+Average Level Differential: 2
+Average Latency Time: 49
+Time: 1910
+Average Wait Time: 17.43114
+Average Level Differential: 2
+Average Latency Time: 49
+Time: 2010
+Average Wait Time: 17.43114
+Average Level Differential: 2
+Average Latency Time: 49
+Time: 2110
+Average Wait Time: 17.43114
+Average Level Differential: 4.333333
+Average Latency Time: 47.33333
+Time: 2210
+Average Wait Time: 17.43114
+Average Level Differential: 4.333333
+Average Latency Time: 47.33333
+Time: 2310
+Average Wait Time: 17.43114
+Average Level Differential: 4.333333
+Average Latency Time: 47.33333
+Time: 2410
+Average Wait Time: 20.7514
+Average Level Differential: 4.333333
+Average Latency Time: 47.33333
+Time: 2510
+Average Wait Time: 20.7514
+Average Level Differential: 4.333333
+Average Latency Time: 47.33333
+Time: 2610
+Average Wait Time: 20.7514
+Average Level Differential: 4.333333
+Average Latency Time: 47.33333
+Time: 2710
+Average Wait Time: 20.7514
+Average Level Differential: 4.333333
+Average Latency Time: 47.33333
+Time: 2810
+Average Wait Time: 20.7514
+Average Level Differential: 4.333333
+Average Latency Time: 47.33333
+Time: 2910
+Average Wait Time: 20.7514
+Average Level Differential: 4.333333
+Average Latency Time: 47.33333
+Time: 3010
+Average Wait Time: 20.7514
+Average Level Differential: 4.333333
+Average Latency Time: 47.33333
+Time: 3110
+Average Wait Time: 20.7514
+Average Level Differential: 3.75
+Average Latency Time: 43.75
+Time: 3210
+Average Wait Time: 20.7514
+Average Level Differential: 3.75
+Average Latency Time: 43.75
+Time: 3310
+Average Wait Time: 20.7514
+Average Level Differential: 5.8
+Average Latency Time: 46.6

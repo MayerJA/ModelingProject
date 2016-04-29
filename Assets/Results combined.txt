@@ -1,0 +1,153 @@
+Time: 10
+Time: 110
+Time: 210
+Time: 310
+Time: 410
+Time: 510
+Time: 610
+Time: 710
+Time: 810
+Time: 910
+Time: 1010
+Time: 1110
+Time: 1210
+Time: 1310
+Time: 1410
+Time: 1510
+Time: 1610
+Time: 1710
+Time: 1810
+Time: 1910
+Time: 2010
+Time: 2110
+Time: 2210
+Time: 2310
+Time: 2410
+Time: 2510
+Time: 2610
+Time: 2710
+Time: 2810
+Average Level Differential: 2
+Average Latency Time: 15
+Time: 2910
+Average Level Differential: 2
+Average Latency Time: 15
+Time: 3010
+Average Level Differential: 2
+Average Latency Time: 15
+Time: 3110
+Average Wait Time: 34.92124
+Average Level Differential: 2
+Average Latency Time: 15
+Time: 3210
+Average Wait Time: 34.92124
+Average Level Differential: 2
+Average Latency Time: 15
+Time: 3310
+Average Wait Time: 34.92124
+Average Level Differential: 2
+Average Latency Time: 15
+Time: 3410
+Average Wait Time: 34.92124
+Average Level Differential: 2
+Average Latency Time: 15
+Time: 3510
+Average Wait Time: 34.92124
+Average Level Differential: 2
+Average Latency Time: 15
+Time: 3610
+Average Wait Time: 34.92124
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 3710
+Average Wait Time: 34.92124
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 3810
+Average Wait Time: 34.92124
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 3910
+Average Wait Time: 41.10708
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 4010
+Average Wait Time: 41.10708
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 4110
+Average Wait Time: 41.10708
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 4210
+Average Wait Time: 41.10708
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 4310
+Average Wait Time: 41.10708
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 4410
+Average Wait Time: 41.10708
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 4510
+Average Wait Time: 41.10708
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 4610
+Average Wait Time: 41.10708
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 4710
+Average Wait Time: 41.10708
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 4810
+Average Wait Time: 41.10708
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 4910
+Average Wait Time: 41.10708
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 5010
+Average Wait Time: 41.10708
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 5110
+Average Wait Time: 41.10708
+Average Level Differential: 2
+Average Latency Time: 18
+Time: 5210
+Average Wait Time: 41.10708
+Average Level Differential: 6
+Average Latency Time: 17
+Time: 5310
+Average Wait Time: 41.10708
+Average Level Differential: 6
+Average Latency Time: 17
+Time: 5410
+Average Wait Time: 41.10708
+Average Level Differential: 5.25
+Average Latency Time: 18.5
+Time: 5510
+Average Wait Time: 48.79899
+Average Level Differential: 4.4
+Average Latency Time: 18.8
+Time: 5610
+Average Wait Time: 48.79899
+Average Level Differential: 4.4
+Average Latency Time: 18.8
+Time: 5710
+Average Wait Time: 55.09932
+Average Level Differential: 4.4
+Average Latency Time: 18.8
+Time: 5810
+Average Wait Time: 57.33071
+Average Level Differential: 4.4
+Average Latency Time: 18.8
+Time: 5825
+Average Wait Time: 48.73706
+Average Level Differential: 4.4
+Average Latency Time: 18.8
